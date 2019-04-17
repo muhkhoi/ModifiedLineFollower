@@ -1,2 +1,2 @@
-# ModifiedLineFollower
-8 bit sensors of line follower with PD error accumulation
+# AckermanSteeringLineFollower
+8 bit sensors of line follower with servo controlled ackerman steering wheel mechanism.
